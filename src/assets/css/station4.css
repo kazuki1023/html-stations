@@ -1,5 +1,16 @@
-* {
+
+header {
   background-color: #fff;
+  height: 40px;
+  padding: 10px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+body {
+  line-height: 1.5;
+  color: #333;
+  background-color: #C4C4C4;
+  margin: 0;
+  padding: 0;
 }
 .card {
   padding: 3px;
@@ -22,4 +33,12 @@
 .card__description {
     color: #282828;
     font-size: 12px;
+}
+
+
+footer{
+  background-color: #fff;
+  height: 40px;
+  padding: 10px 0;
+  border-top: 1px solid #e5e5e5;
 }
